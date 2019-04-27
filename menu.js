@@ -85,7 +85,7 @@ var titleContents =
 document.getElementById('titleinfo').innerHTML = titleContents;
 
 document.getElementById('icons').innerHTML = 
-'<span class="icon-twitter bigicon" style="color: #aaa; cursor: pointer;" onclick="window.open(\'http://www.twitter.com/jackschaedler\');"> <span style="font-size:10px; color: #555"></span></span><span class="icon-github-circled bigicon" style="color: #aaa; cursor: pointer" onclick="window.open(\'http://www.github.com/jackschaedler/circles-sines-signals\');"><span style="font-size:10px; padding-left: 4px; color: #555"></span></span>';
+'<span class="icon-twitter bigicon" style="color: #aaa; cursor: pointer;" onclick="window.open(\'http://www.twitter.com/_Aryabhatiya\');"> <span style="font-size:10px; color: #555"></span></span><span class="icon-github-circled bigicon" style="color: #aaa; cursor: pointer" onclick="window.open(\'https://aryabhatiya.ml\');"><span style="font-size:10px; padding-left: 4px; color: #555"></span></span>';
 
 if (document.getElementById('footer') != null)
 {
